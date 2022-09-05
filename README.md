@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eaurzuaBaires
+- 👋 Hi, I’m @eaurzuaBaires AKA: Eduardo Urzua.
 - 👀 I’m interested in QA Automation and AI.
-- 🌱 I’m currently learning BI
+- 🌱 I’m currently learning BI.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me eduardo.urzua@bairesdev.com
 
